@@ -1,0 +1,74 @@
+p {
+  margin: 0;
+}
+
+.card {
+  width: 25%;
+  border: solid 1px #EAEDED;
+}
+
+.highlight_card {
+  align-self: baseline;
+  width: 25%;
+  box-shadow: -3px 8px 15px 0px rgba(34, 60, 80, 0.2);
+}
+
+.tariff_name {
+  height: 4rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 120%;
+  font-weight: 600;
+  background-color: rgba(0, 0, 0, 0.1);
+  color:  #EAEDED;
+  border-bottom: solid 1px #EAEDED;
+}
+
+.tariff_name_big{
+  height: 4.5rem;
+}
+
+.tariff_body {
+  height: 6rem;
+  display: flex;
+  justify-content: center;
+  padding: 10% 5%;
+  color:  #EAEDED;
+}
+
+.money {
+  padding-top: 10%;
+}
+
+.price {
+  align-self: flex-end;
+  font-size: 3.5rem;
+}
+
+.period {
+  align-self: flex-end;
+  padding-bottom: 5%;
+}
+
+.tariff_footer {
+  background-color: #D6DBDF;
+  color: #85929E;
+}
+
+.tariff_speed {
+  height: 4rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.tariff_rules {
+  display: flex;
+  align-items: center;
+  height: 5rem;
+  padding-left: 10%;
+  padding-right: 10%;
+  text-align: center;
+  background-color: rgba(131, 131, 131, 0.1);
+}
