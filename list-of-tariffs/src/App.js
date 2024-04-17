@@ -38,30 +38,6 @@ function App() {
       key = {key}
       />)
         }
-
-        {/* <TariffCard
-          price = {300}
-          speed = "10"
-          theme = {colors.color_blue}
-          id = "blue_card"
-        />
-        <TariffCard
-          price = {450}
-          speed = "50"
-          theme = {colors.color_green}
-          id = "green_card"
-        />
-        <TariffCard
-          price = {550}
-          speed = "100"
-          theme = {colors.color_red}
-          id = "red_card"
-        />
-        <TariffCard
-          price = {1000}
-          speed = "200"
-          theme = {colors.color_black}
-          id = "black_card" */}          
       </ul>
     </div>
   );
